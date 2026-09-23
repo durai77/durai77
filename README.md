@@ -1,27 +1,15 @@
-```
- ____  _   _ ____      _    ___   ____  
-|  _ \| | | |  _ \    / \  |_ _| |  _ \ 
-| | | | | | | |_) |  / _ \  | |  | |_) |
-| |_| | |_| |  _ <  / ___ \ | |  |  _ < 
-|____/ \___/|_| \_\/_/   \_\___| |_| \_\
-                                         
-           [ DR4K0N ]
-```
-
 <div align="center">
 
-`Offensive Security Specialist` | `Penetration Tester` | `CTF Competitor`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:dc143c,100:0d1117&height=150&section=header&text=DURAI%20R&fontSize=60&fontColor=dc143c&animation=fadeIn&fontAlignY=35&desc=DR4K0N&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Offensive+Security+Specialist;Penetration+Tester;CTF+Competitor;Breaking+Systems+to+Secure+Them" alt="Typing SVG" /></a>
 
-**Breaking systems to make them stronger.**
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=dc143c)](https://github.com/durai77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=dc143c)](https://linkedin.com/in/durai77)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=flat-square&logo=x&logoColor=dc143c)](https://twitter.com/durai_77)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=dc143c)](mailto:durairavi0077@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/durai77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/durai77)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=flat-square&logo=x&logoColor=00ff41)](https://twitter.com/durai_77)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00ff41)](mailto:durairavi0077@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=durai77&style=flat-square&color=00ff41&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=durai77&style=flat-square&color=dc143c&label=VISITORS)
 
 </div>
 
@@ -57,10 +45,9 @@ Offensive security specialist with hands-on experience in penetration testing, v
 +-----------+----------------------------------------------+-----------------------+--------+
 ```
 
-**Verify:**
-[CARTP](https://www.credential.net/194075408) | [CASA](https://www.credly.com/badges/a2ca8587-5cff-48e2-8d8f-8308f37ad336) | [ACP](https://www.credly.com/badges/f342491f-db9a-4f89-9951-0d023ff7c8db)
+Verify: [CARTP](https://www.credential.net/194075408) | [CASA](https://www.credly.com/badges/a2ca8587-5cff-48e2-8d8f-8308f37ad336) | [ACP](https://www.credly.com/badges/f342491f-db9a-4f89-9951-0d023ff7c8db)
 
-**Ongoing Labs:** `CCEP - Certified Cyber Exploitation Professional` | `Enterprise AD & Cloud Red Teaming`
+Ongoing: `CCEP - Certified Cyber Exploitation Professional` | `Enterprise AD & Cloud Red Teaming`
 
 ---
 
@@ -81,52 +68,46 @@ OTHER                         Blender
 ### `> ls /projects/featured/`
 
 <details>
-<summary><b>FLUXION</b> - Zero Trust Encrypted File Sharing</summary>
+<summary><b>FLUXION</b> — Zero Trust Encrypted File Sharing</summary>
 
 ```
-TYPE:   Security Platform | SRM VEC
 STACK:  AES-256-GCM, RSA-2048, WebRTC
-DESC:   Zero Trust encrypted file sharing platform enabling secure
-        end-to-end file transfers with no server-side access to
-        files or encryption keys.
+DESC:   Secure end-to-end file transfers with no server-side
+        access to files or encryption keys.
 URL:    https://app.gokulamaran.me/
 ```
 
 </details>
 
 <details>
-<summary><b>HUSTLEFY</b> - Hyperlocal Job Matching Platform</summary>
+<summary><b>HUSTLEFY</b> — Hyperlocal Job Matching Platform</summary>
 
 ```
-TYPE:   Startup Initiative (MSME)
 STACK:  Node.js, React, MongoDB, Capacitor
-DESC:   Job matching platform with Firebase/JWT authentication for
-        dual-role users. Real-time dashboards for job lifecycle
-        management with cross-platform Android deployment.
+DESC:   Job matching platform with Firebase/JWT auth, real-time
+        dashboards, and cross-platform Android deployment.
 ```
 
 </details>
 
 <details>
-<summary><b>CTF ARCHIVE</b> - Competition Solutions</summary>
+<summary><b>CTF ARCHIVE</b> — Competition Solutions</summary>
 
 ```
-TYPE:   CTF Competitions | 2025-2026
 TAGS:   PWN, Crypto, Web, Reverse Engineering, Forensics
-DESC:   Curated collection of CTF challenge solutions and writeups
-        covering multiple domains of offensive security.
+DESC:   Curated collection of CTF challenge solutions covering
+        multiple domains of offensive security.
 ```
 
 </details>
 
 <details>
-<summary><b>CTF WRITEUPS</b> - In-Depth Challenge Analysis</summary>
+<summary><b>CTF WRITEUPS</b> — In-Depth Challenge Analysis</summary>
 
 ```
-TYPE:   CTF Writeups | 2025-2026
 TAGS:   Exploitation, Analysis, Methodology
 DESC:   Detailed walkthroughs with step-by-step exploitation
-        techniques, reverse engineering, and forensic analysis.
+        techniques and forensic analysis.
 ```
 
 </details>
@@ -137,11 +118,10 @@ DESC:   Detailed walkthroughs with step-by-step exploitation
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=durai77&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=8b949e)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=durai77&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=dc143c&title_color=dc143c&text_color=8b949e&ring_color=dc143c" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=durai77&background=0d1117&hide_border=true&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c&sideLabels=dc143c&dates=8b949e&currStreakNum=dc143c&sideNums=dc143c" />
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=durai77&theme=chartreuse-dark&background=0d1117&hide_border=true&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=8b949e)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durai77&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true&custom_title=Contribution%20Graph)
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=durai77&bg_color=0d1117&color=dc143c&line=dc143c&point=ffffff&area_color=dc143c&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -150,13 +130,11 @@ DESC:   Detailed walkthroughs with step-by-step exploitation
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "I find vulnerabilities before the bad actors do."         ║
-║                                                              ║
-║   PGP: 0xDr4k0n  //  Remote Worldwide  //  Open to Collabs  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+"I find vulnerabilities before the bad actors do."
+
+PGP: 0xDr4k0n  //  Remote Worldwide  //  Open to Collabs
 ```
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:dc143c,100:0d1117&height=100&section=footer" width="100%"/>
