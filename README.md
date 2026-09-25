@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner: High-Quality Looping Animation created from assets/github.mp4 -->
-<img src="assets/github.gif" width="100%" alt="Welcome to Durai's GitHub" />
+<!-- Banner -->
+<img src="assets/banner.png" width="100%" alt="Durai's GitHub Banner" />
 
 <br/><br/>
 
