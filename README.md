@@ -136,7 +136,7 @@ DESC:   Detailed walkthroughs with step-by-step exploitation
 <div align="center">
 
 ```
-"I find vulnerabilities before the bad actors do."
+I find vulnerabilities before the bad actors do.
 
 PGP: 0xDr4k0n  //  Remote Worldwide  //  Open to Collabs
 ```
