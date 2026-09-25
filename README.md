@@ -87,7 +87,7 @@
 <h2 align="center">Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=durai77&show_icons=true&bg_color=000000&border_color=30363d&icon_color=ffffff&title_color=ffffff&text_color=ffffff&ring_color=ffffff" alt="Durai's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=durai77&show_icons=true&card_width=495&bg_color=000000&border_color=30363d&icon_color=ffffff&title_color=ffffff&text_color=ffffff&ring_color=ffffff" alt="Durai's GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=durai77&background=000000&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Durai's GitHub Streak" />
   
   <br/><br/>
