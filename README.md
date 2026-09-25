@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">👤 About me</h2>
+<h2 align="center">About me</h2>
 
 <table border="0" width="100%">
   <tr>
@@ -38,11 +38,11 @@
       </p>
       <br/>
       <p align="center">
-        🎓 <b>Studying at SRM VEC</b><br/>
-        🛡️ <b>Offensive Security Specialist & Penetration Tester</b><br/>
-        ☁️ <b>Cloud Security (Azure) & Active Directory Red Teaming</b><br/>
-        🏆 <b>Active CTF Competitor & Security Researcher</b><br/>
-        📜 <b>CARTP | CASA | ACP Certified</b>
+        <b>Studying at SRM VEC</b><br/>
+        <b>Offensive Security Specialist & Penetration Tester</b><br/>
+        <b>Cloud Security (Azure) & Active Directory Red Teaming</b><br/>
+        <b>Active CTF Competitor & Security Researcher</b><br/>
+        <b>CARTP | CASA | ACP Certified</b>
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="center">⚙️ Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-<h2 align="center">📈 Statistics</h2>
+<h2 align="center">Statistics</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=durai77&show_icons=true&bg_color=000000&border_color=30363d&icon_color=ffffff&title_color=ffffff&text_color=ffffff&ring_color=ffffff" alt="Durai's GitHub Stats" />
@@ -97,10 +97,10 @@
 
 ---
 
-<h2 align="center">🛡️ Featured Projects & Certifications</h2>
+<h2 align="center">Featured Projects & Certifications</h2>
 
 <details>
-<summary><b>📜 Professional Certifications</b></summary>
+<summary><b>Professional Certifications</b></summary>
 <br/>
 
 | Code | Credential | Issuer | Verification |
@@ -113,7 +113,7 @@
 </details>
 
 <details>
-<summary><b>🚀 Highlighted Projects</b></summary>
+<summary><b>Highlighted Projects</b></summary>
 <br/>
 
 - **[FLUXION](https://app.gokulamaran.me/)** — Zero Trust Encrypted File Sharing  
