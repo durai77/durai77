@@ -7,21 +7,11 @@
 
 <!-- Social Media & Profile Links in sleek monochrome badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/durai77" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://twitter.com/durai_77" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>&nbsp;
-  <a href="mailto:durairavi0077@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://www.credential.net/194075408" target="_blank">
-    <img src="https://img.shields.io/badge/CARTP_CERTIFIED-000000?style=for-the-badge&logo=credly&logoColor=white" alt="Credentials" />
-  </a>
+  <a href="https://linkedin.com/in/durai77" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/durai_77" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://tryhackme.com" target="_blank"><img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="mailto:durairavi0077@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.credential.net/194075408" target="_blank"><img src="https://img.shields.io/badge/CARTP_CERTIFIED-000000?style=for-the-badge&logo=credly&logoColor=white" alt="Credentials" /></a>
 </p>
 
 </div>
