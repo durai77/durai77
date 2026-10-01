@@ -119,8 +119,4 @@
   *Description*: Curated collection of in-depth CTF challenge solutions and exploit analyses.
 </details>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=durai77&style=for-the-badge&color=000000&label=PROFILE%20VIEWS" alt="Profile Views" />
 </div>
