@@ -106,7 +106,7 @@
 <summary><b>Highlighted Projects</b></summary>
 <br/>
 
-- **[FLUXION](https://app.gokulamaran.me/)** — Zero Trust Encrypted File Sharing  
+- **[FLUXION](https://github.com/durai77/Fluxion)** — Zero Trust Encrypted File Sharing  
   *Stack*: AES-256-GCM, RSA-2048, WebRTC  
   *Description*: Secure end-to-end file transfers with no server-side access to files or encryption keys.
 
@@ -114,7 +114,7 @@
   *Stack*: Node.js, React, MongoDB, Capacitor  
   *Description*: Job matching platform with Firebase/JWT auth, real-time dashboards, and cross-platform Android deployment.
 
-- **CTF ARCHIVE & WRITEUPS** — Competition Solutions  
+- **[CTF ARCHIVE & WRITEUPS](https://www.durair.me/ctf-achievements)** — Competition Solutions  
   *Stack*: PWN, Crypto, Web Exploitation, Reverse Engineering, Forensics  
   *Description*: Curated collection of in-depth CTF challenge solutions and exploit analyses.
 </details>
